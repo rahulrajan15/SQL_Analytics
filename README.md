@@ -1,4 +1,4 @@
-# Real Estate Analytics with Otodom using SQL
+# Real Estate Analytics with Otodom
 
 ## Overview
 This project focuses on harnessing real-time data from Otodom, a prominent Polish online real estate platform. Utilizing Bright Data for scraping and Snowflake for ETL, we process data in the cloud, ensuring seamless analysis.
