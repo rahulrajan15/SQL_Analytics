@@ -19,6 +19,10 @@ This project focuses on harnessing real-time data from Otodom, a prominent Polis
 
 • Analytics and Visualization: Snowflake's built-in dashboard tool.
 
+## System Design of the Project
+![System_Design](https://github.com/rahulrajan15/SQL_Analytics/assets/113009011/5f661861-cd62-46e7-8b63-80e0ab885d70)
+
+
 ## Few of the images from the dashboard:
 ### 1) Average rental price of 1 & 2 room apartments in some of the major cities in Poland
 ![Average rental price of 1   2 room apartments in some of the major cities in Poland](https://github.com/rahulrajan15/SQL_Analytics/assets/113009011/8801d8cf-efbd-43b6-bfc2-dfddd846247e)
